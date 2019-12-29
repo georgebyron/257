@@ -2,7 +2,7 @@
 
 * [257](README.md)
 
-## Szkice
+## Szkice <a id="notatki"></a>
 
 * [Anormalna encefalizacja w epoce uczenia maszynowego](notatki/anormalna-encefalizacja-w-epoce-uczenia-maszynowego.md)
 * [Antropogeneza i Antropocen](notatki/antropogeneza-i-antropocen.md)
