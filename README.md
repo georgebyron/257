@@ -12,7 +12,7 @@ description: prolegomena do podróży w czasie aka. kosmiczne oko
 There is no planetary-scale computation without a planet, and no computational infrastructure without the **transformation of matter into energy and energy into information**.  
 `Benjamin Bratton - The Stack`
 
-Let’s deal with utopia not as with as a product or defined world vision, but as **a conceptual tool**, a set of engineering guidelines, which also have to be designed. The utopia-making presupposes its description and application - theory and practice.   
+Let’s deal with utopia not as with as a product or defined vision of the world, but as **a conceptual tool**, a set of engineering guidelines, which also have to be designed. The utopia-making presupposes its description and application - theory and practice.   
 `MVU`
 
 \#2
