@@ -23,4 +23,5 @@
 * [Antropogeneza i Antropocen](notatki/antropogeneza-i-antropocen.md)
 * [Nieprzewidywanie przyszłości](notatki/nieprzewidywanie-przyszlosci.md)
 * [Uwaga, Umwelt, Interfejs](notatki/uwaga-umwelt-interfejs.md)
+* [Dziwne intuicje o widzeniu świata](dziwne-intuicje-o-widzeniu-swiata.md)
 
