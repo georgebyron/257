@@ -15,6 +15,7 @@
 
 ## Notatki <a id="notatki-1"></a>
 
+* [Dziwne intuicje o widzeniu świata](notatki-1/dziwne-intuicje-o-widzeniu-swiata.md)
 * [Plany](notatki-1/plany.md)
 
 ## Szkice \(2016 - 2018\) <a id="notatki"></a>
@@ -23,5 +24,4 @@
 * [Antropogeneza i Antropocen](notatki/antropogeneza-i-antropocen.md)
 * [Nieprzewidywanie przyszłości](notatki/nieprzewidywanie-przyszlosci.md)
 * [Uwaga, Umwelt, Interfejs](notatki/uwaga-umwelt-interfejs.md)
-* [Dziwne intuicje o widzeniu świata](dziwne-intuicje-o-widzeniu-swiata.md)
 
