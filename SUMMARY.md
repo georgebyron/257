@@ -3,6 +3,11 @@
 * [257](README.md)
 * [Design Ontology](design-ontology.md)
 
+## Psychologia poznawcza
+
+* [Psychologia poznawcza - intro](psychologia-poznawcza/psychologia-poznawcza-intro.md)
+* [Notatki z uwagi i kontroli poznawczej](psychologia-poznawcza/notatki-z-uwagi-i-kontroli-poznawczej.md)
+
 ## Sieć Semantyczna
 
 * [Semantic Web](siec-semantyczna/semantic-web.md)
