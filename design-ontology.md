@@ -8,7 +8,7 @@ I actually extract knowledge from your head and model it in a way that is unders
 
 > Tara Raafat - RDF and OWL: the powerful duo
 
-Zajmuję się ekstrakcją wiedzy z ludzkich umysłów, a następnie ich reinterpretacją w celu uczynienia jej czytelną dla maszyny. Ekstrakcji dokonuję w celu automatyzacji czynności, emancypacji z pracy.   
+Zajmuję się ekstrakcją wiedzy z ludzkich umysłów, a następnie jej zamodelowaniem aby uczynić ją czytelną dla maszyny. Ekstrakcji dokonuję w celu automatyzacji czynności, emancypacji z pracy.   
 Koduję kulturę, ale jak kultura powinna zostać zakodowana?
 
 > 257
