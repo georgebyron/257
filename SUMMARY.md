@@ -7,6 +7,7 @@
 
 * [Psychologia poznawcza - intro](psychologia-poznawcza/psychologia-poznawcza-intro.md)
 * [Metody badawcze psychologii poznawczej](psychologia-poznawcza/metody-badawcze-psychologii-poznawczej.md)
+* [Źródła danych w psychologii poznawczej](psychologia-poznawcza/zrodla-danych-w-psychologii-poznawczej.md)
 * [Notatki z uwagi i kontroli poznawczej](psychologia-poznawcza/notatki-z-uwagi-i-kontroli-poznawczej.md)
 * [Notatki z percepcji poznania i afordancji](psychologia-poznawcza/notatki-z-percepcji-poznania-i-afordancji.md)
 
