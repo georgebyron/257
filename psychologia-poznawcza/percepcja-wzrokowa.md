@@ -61,3 +61,5 @@ Na powyższym rysunku jest to swietnie pokazane. Gdzie kładą się fiskacje w z
 
 ![](../.gitbook/assets/zrzut-ekranu-2020-02-29-o-17.58.54.png)
 
+Podczas wykładu omówiliśmy wybrane zagadnienia percepcji wzrokowej. Rozpoczęliśmy od czterech faz postrzegania, jakimi są rejestracja sensoryczna, ocena emocjonalna, rozpoznanie treści bodźca oraz ocena znaczenia metaforycznego. Przybliżyliśmy podstawy anatomiczno-funkcjonalne układu wzrokowego, z uwzględnieniem teorii dwóch szlaków wzrokowych \(odpowiedzialnych za świadomy percept oraz działanie\). Następnie omówiliśmy prawa percepcji, badane przez psychologów postaci \(zasada odróżniania figury/tła, zasada podobieństwa, zasada kontynuacji, zasada bliskości, zasada zamykania\) oraz wybrane iluzje wzrokowe. W ostatniej części wykładu zajęliśmy się cyklem percepcyjnym według Ulrica Neissera, którego elementami są informacja docierająca ze środowiska, schemat pamięciowy oraz aktywna eksploracja.
+
