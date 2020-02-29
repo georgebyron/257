@@ -6,6 +6,8 @@
 
 * [ ] Sieć semantyczna
 * [ ] Inżyniera i projektowanie ontologii
+  * [ ] Psychologia poznawcza
+  * [ ] Metafora komputerowa
 * [ ] Logika, semantyka i teoria mnogości
 * [ ] Negarestani: AGI
   * [ ] The Inhuman \(a quick read\)
