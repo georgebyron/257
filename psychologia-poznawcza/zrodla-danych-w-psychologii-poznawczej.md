@@ -50,5 +50,25 @@ Efekt Stroopa: trzeba wyhamować - pojawia się konflikt poznawczy. Mierzymy, il
 
 ![](../.gitbook/assets/screenshot-2020-02-19-at-18.43.17.png)
 
+### Nowe metody
+
+![](../.gitbook/assets/zrzut-ekranu-2020-02-29-o-16.27.24.png)
+
+Rozdzielczość czasowa - jak często dostajemy sygnał
+
+Rozdzielczośc przestrzenna - co dokładnie widzimy w mózgu \(płat, neuron..\)
+
+Naturally occuring lesions - efekty występujące po wypadkach
+
+MEG&ERP: encelagografia \(?\) - to są te czapeczki z czujnikami
+
+Metody neurobrazowania - badanie korelacji centrów mózgowych z przepływem krwi
+
+\_\_
+
+W niniejszym wykładzie przyglądaliśmy się metodzie psychologii poznawczej oraz metodzie naukowej w ogólności. Metoda naukowa polega \(zazwyczaj\) na stosowaniu procedury, w której początkowo formułowane jest pytanie badawcze, w oparciu o które formułowana jest hipoteza. Po nadaniu jej treści empirycznej \(przełożeniu zmiennych teoretycznych na zmienne obserwacyjne\) przeprowadzany jest eksperyment, czyli proces, w którym "badacz manipuluje co najmniej jedną zmienną \(…\), dokonuje pomiaru innej zmiennej \(…\) i stara się kontrolować lub ograniczyć wpływ pozostałych zmiennych” \(Francuz & Mackiewicz, 2005\). Analiza wyników eksperymentu pozwala obalić lub \(czasowo\) potwierdzić wyjściową hipotezę. W badaniach psychologicznych prowadzi się zazwyczaj badania w schemacie eksperymentalnym \(pozwalają one wnioskować na temat przyczyn interesującego zjawiska\) lub korelacyjnym \(analizuje się związek dwóch zmiennych zależnych\). Podstawowymi, czy też klasycznymi, źródłami wiedzy o procesach poznawczych są eksperymenty behawioralne, w których mierzy się odsetek poprawnych odpowiedzi oraz czasy reakcji \(w przypadku poprawnych odpowiedzi\), oraz symulacje komputerowe. Prócz tego psychologia poznawcza wykorzystuje również inne narzędzia psychologii \(samoopis, obserwacja, badania kliniczne\), psychofizjologii \(np. elektroencefalografia\) oraz neuronauki \(np. obrazowanie aktywności mózgu rezonansem magnetycznym. W większości badań nad poznaniem metody neuronaukowe wykorzystują jednak najbardziej klasyczną metodę - eksperymenty behawioralne \(chronometrię umysłu\).
+
+
+
 
 
