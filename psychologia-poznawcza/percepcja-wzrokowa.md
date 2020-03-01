@@ -57,6 +57,8 @@ Nasz umysł dobiera srodki percepcyjne żeby odnaleźć się w otoczeniu.
 
 Na powyższym rysunku jest to swietnie pokazane. Gdzie kładą się fiskacje w zależności od tego, jakie mamy nastawienie poznawcze.
 
+![](../.gitbook/assets/image%20%281%29.png)
+
 ![](../.gitbook/assets/zrzut-ekranu-2020-02-29-o-17.57.21.png)
 
 ![](../.gitbook/assets/zrzut-ekranu-2020-02-29-o-17.58.54.png)
