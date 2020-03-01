@@ -11,6 +11,7 @@
 * [Obliczeniowe modele umysłu](psychologia-poznawcza/obliczeniowe-modele-umyslu.md)
 * [Percepcja wzrokowa](psychologia-poznawcza/percepcja-wzrokowa.md)
 * [Reprezentacje umysłowe](psychologia-poznawcza/reprezentacje-umyslowe.md)
+* [Pojęcia](psychologia-poznawcza/pojecia.md)
 * [Notatki z uwagi i kontroli poznawczej](psychologia-poznawcza/notatki-z-uwagi-i-kontroli-poznawczej.md)
 * [Notatki z percepcji poznania i afordancji](psychologia-poznawcza/notatki-z-percepcji-poznania-i-afordancji.md)
 
