@@ -37,5 +37,27 @@ Zbudujmy wtedy nowy język narracji, nową syntaksę - twierdzenie Shapiro Whorf
 
 ![](../.gitbook/assets/zrzut-ekranu-2020-03-18-o-20.40.38.png)
 
+![](../.gitbook/assets/zrzut-ekranu-2020-03-19-o-20.59.22.png)
 
+![](../.gitbook/assets/zrzut-ekranu-2020-03-19-o-21.00.45.png)
+
+![](../.gitbook/assets/zrzut-ekranu-2020-03-19-o-21.02.06.png)
+
+![](../.gitbook/assets/zrzut-ekranu-2020-03-19-o-21.03.10.png)
+
+![](../.gitbook/assets/zrzut-ekranu-2020-03-19-o-21.04.02.png)
+
+![](../.gitbook/assets/zrzut-ekranu-2020-03-19-o-21.05.01.png)
+
+![](../.gitbook/assets/zrzut-ekranu-2020-03-19-o-21.05.50.png)
+
+![](../.gitbook/assets/zrzut-ekranu-2020-03-19-o-21.09.04.png)
+
+![](../.gitbook/assets/zrzut-ekranu-2020-03-19-o-21.10.12.png)
+
+![](../.gitbook/assets/zrzut-ekranu-2020-03-19-o-21.11.24.png)
+
+![](../.gitbook/assets/zrzut-ekranu-2020-03-19-o-21.11.57.png)
+
+![](../.gitbook/assets/zrzut-ekranu-2020-03-19-o-21.16.41.png)
 
