@@ -15,6 +15,7 @@
 * [Pamięć](psychologia-poznawcza/pamiec.md)
 * [Uwaga](psychologia-poznawcza/uwaga.md)
 * [Świadomość](psychologia-poznawcza/swiadomosc.md)
+* [Podejmowanie decyzji](psychologia-poznawcza/podejmowanie-decyzji.md)
 * [Notatki z uwagi i kontroli poznawczej](psychologia-poznawcza/notatki-z-uwagi-i-kontroli-poznawczej.md)
 * [Notatki z percepcji poznania i afordancji](psychologia-poznawcza/notatki-z-percepcji-poznania-i-afordancji.md)
 
