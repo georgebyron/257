@@ -34,6 +34,10 @@
 * [Dziwne intuicje o widzeniu świata](notatki-1/dziwne-intuicje-o-widzeniu-swiata.md)
 * [Plany](notatki-1/plany.md)
 
+## Ontologie
+
+* [Shaviro o Whiteheadzie](ontologie/shaviro-o-whiteheadzie.md)
+
 ## Szkice \(2016 - 2018\) <a id="notatki"></a>
 
 * [Anormalna encefalizacja w epoce uczenia maszynowego](notatki/anormalna-encefalizacja-w-epoce-uczenia-maszynowego.md)

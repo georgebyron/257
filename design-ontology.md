@@ -13,7 +13,7 @@ Koduję kulturę, ale jak kultura powinna zostać zakodowana?
 
 > 257
 
-
+Concepts must be experienced. They are lived.
 
   
 
