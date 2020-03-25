@@ -102,5 +102,9 @@ Estetyka Kanta jest tylko częścią systemu. Nalega przy tym, żeby sądy estet
 
 > Dążenie do absolutyzacji rozumu stoi na przeszkodzie powstawania nowości i innowacji.
 
+## Actual Entities and Eternal Objects
 
+Whitehead czyni rozróżnienie na wydarzenia \(_events_\), które również nazywa aktualnymi bytami \(_actual entities_\) albo aktualnymi okazjami \(_actual occasions_\) - to one są _ultimate_ komponentem rzeczywistości.
+
+Ogniwo \(_a nexus_\) jest pojedynczym \(_particular_\) faktem wzajemności \(_togetherness_\) pośród aktualnych bytów \(_entities_\) - znaczy to, że ogniwo stanowi 
 
