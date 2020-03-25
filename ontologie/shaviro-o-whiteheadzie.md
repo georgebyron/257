@@ -106,5 +106,7 @@ Estetyka Kanta jest tylko częścią systemu. Nalega przy tym, żeby sądy estet
 
 Whitehead czyni rozróżnienie na wydarzenia \(_events_\), które również nazywa aktualnymi bytami \(_actual entities_\) albo aktualnymi okazjami \(_actual occasions_\) - to one są _ultimate_ komponentem rzeczywistości.
 
+Wydarzenie to ogniwo okazji. 
+
 Ogniwo \(_a nexus_\) jest pojedynczym \(_particular_\) faktem wzajemności \(_togetherness_\) pośród aktualnych bytów \(_entities_\) - znaczy to, że ogniwo stanowi 
 
