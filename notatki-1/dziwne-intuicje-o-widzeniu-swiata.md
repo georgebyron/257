@@ -20,5 +20,19 @@
    2. Projekt AGI może zrealizować się tylko w oparciu o sieć semantyczną.
    3. Jesteś w dobrym miejscu, o bardzo ciekawym czasie. Za chwilę zaczynasz weekend. \(18:56\)
 
+26/03/2020
 
+Jak to szło?
+
+Mamy whiteheadowskie otwarcie świata na podmiot, wnikanie w niego.
+
+Afordancja jako możliwości działania, które są odkrywane przez interfejs, czyli ekran, czyli miejsce w którym "rzeczy pozostawiają swój rejestr". Interfejs jest pewną odpowiedzią na model mentalny użytkownika, a jednocześnie go kształtuje. "Wchodząc do internetu, czerpiemy z niego, ale również jesteśmy przez niego naznaczani" \(Bogna Konior\). 
+
+Korpus afordancji jako sieć semantyczna - sieć siemantyczna jest modelem konceptualnym. Zawsze dostrzegamy tylko jedną afordancję, w jednym określonym momencie naznaczonym przez kontekst. Korpus afordancji jest jak tłum, w którym nie dostrzegamy jednostek, całość. Żeby go aktywować, musimy przyłożyć do niego swój model mentalny. Intepretację, na którą wpływ ma kontekst, w którym się znajdujemy.
+
+Sednem tego jest to przedrozumowe poznanie u Whiteheada, ta bezpośredniość świata, która się narzuca, która zaczyna być wyblakła w kontekscie infosfery i bycia onlife.
+
+W takiej sytuacji, rolą projektanta jest odkrywanie afordancji, ich modelowanie.  Czyli wykazywanie wirtualnego \(aktualne = interakcja, nadpisanie stanu, ruch turingowskiej głowicy - trzeba to sprawdzić, niemniej, chodzi mi tutaj o te trzy komponenty, które działają w maszynie Turinga - czego one są reprezentacją w tym systemie?\).
+
+Kontekst wydobywa znaczenie. Na kontekście opiera się projektowanie spekulatywne - jego opis, jest punktem wyjścia. _Intro to the dream machine_.
 
