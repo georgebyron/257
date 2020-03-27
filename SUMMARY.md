@@ -31,6 +31,7 @@
 
 ## Notatki <a id="notatki-1"></a>
 
+* [Prometheanism and its critics](notatki-1/prometheanism-and-its-critics.md)
 * [Dziwne intuicje o widzeniu świata](notatki-1/dziwne-intuicje-o-widzeniu-swiata.md)
 * [Plany](notatki-1/plany.md)
 
