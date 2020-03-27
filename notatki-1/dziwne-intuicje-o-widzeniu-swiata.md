@@ -36,3 +36,9 @@ W takiej sytuacji, rolą projektanta jest odkrywanie afordancji, ich modelowanie
 
 Kontekst wydobywa znaczenie. Na kontekście opiera się projektowanie spekulatywne - jego opis, jest punktem wyjścia. _Intro to the dream machine_.
 
+
+
+27/03/2020/13:54
+
+Koniec świata jako metafora przestrzenna i czasowa jednocześnie. W obu przypadkach dotyczy tego samego: braku możliwości działania.
+
