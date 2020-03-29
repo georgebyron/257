@@ -16,5 +16,5 @@ Koduję kulturę, ale jak kultura powinna zostać zakodowana?
 Concepts must be experienced. They are lived.
 
   
-
+But because our minds are finite, we can only represent things partially and incompletely \(Brassier, \#Accelerate, p.476\)
 
