@@ -48,5 +48,5 @@
 
 ## Fisherism
 
-* [Notatki](fisherism/notatki.md)
+* [Some ideas](fisherism/notatki.md)
 
