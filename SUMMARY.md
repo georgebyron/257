@@ -46,3 +46,7 @@
 * [Nieprzewidywanie przyszłości](notatki/nieprzewidywanie-przyszlosci.md)
 * [Uwaga, Umwelt, Interfejs](notatki/uwaga-umwelt-interfejs.md)
 
+## Fisherism
+
+* [Notatki](fisherism/notatki.md)
+
