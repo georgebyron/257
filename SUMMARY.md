@@ -19,6 +19,10 @@
 * [Notatki z uwagi i kontroli poznawczej](psychologia-poznawcza/notatki-z-uwagi-i-kontroli-poznawczej.md)
 * [Notatki z percepcji poznania i afordancji](psychologia-poznawcza/notatki-z-percepcji-poznania-i-afordancji.md)
 
+## INFORMACJA
+
+* [Informacja: wstęp](informacja/informacja-wstep.md)
+
 ## Sieć Semantyczna
 
 * [Semantic Web](siec-semantyczna/semantic-web.md)
