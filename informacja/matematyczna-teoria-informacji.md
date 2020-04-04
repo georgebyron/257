@@ -63,5 +63,7 @@ Weaver:
 
 Matematyczna teoria komunikacji głównie zajmuje się badaniem informacji na syntaktycznym poziomie. A ponieważ komputery to maszyny syntaktyczne, dlatego tak to działa.
 
+## Entropia i losowość
+
 
 
