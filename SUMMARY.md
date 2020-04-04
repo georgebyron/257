@@ -22,6 +22,8 @@
 ## INFORMACJA
 
 * [Informacja: wstęp](informacja/informacja-wstep.md)
+* [Słownik informacji](informacja/slownik-informacji.md)
+* [Problem ugruntowania symboli](informacja/problem-ugruntowania-symboli.md)
 
 ## Sieć Semantyczna
 
@@ -35,9 +37,16 @@
 
 ## Notatki <a id="notatki-1"></a>
 
-* [Prometheanism and its critics](notatki-1/prometheanism-and-its-critics.md)
 * [Dziwne intuicje o widzeniu świata](notatki-1/dziwne-intuicje-o-widzeniu-swiata.md)
 * [Plany](notatki-1/plany.md)
+
+## crooked translations
+
+* [przestrzeń, czas, światło, wszystko to niezbędne – rozmyślania nad sezonem j.g. ballarda \(bbc four\)](crooked-translations/przestrzen-czas-swiatlo-wszystko-to-niezbedne-rozmyslania-nad-sezonem-j.g.-ballarda-bbc-four.md)
+* [k-punk: dlaczego k?](crooked-translations/k-punk-dlaczego-k.md)
+* [k-punk: mem książkowy](crooked-translations/k-punk-mem-ksiazkowy.md)
+* [Prometheanism and its critics](crooked-translations/prometheanism-and-its-critics.md)
+* [Nieprzewidywanie przyszłości](nieprzewidywanie-przyszlosci.md)
 
 ## Ontologie
 
@@ -47,7 +56,6 @@
 
 * [Anormalna encefalizacja w epoce uczenia maszynowego](notatki/anormalna-encefalizacja-w-epoce-uczenia-maszynowego.md)
 * [Antropogeneza i Antropocen](notatki/antropogeneza-i-antropocen.md)
-* [Nieprzewidywanie przyszłości](notatki/nieprzewidywanie-przyszlosci.md)
 * [Uwaga, Umwelt, Interfejs](notatki/uwaga-umwelt-interfejs.md)
 
 ## Fisherism
