@@ -65,5 +65,37 @@ Matematyczna teoria komunikacji głównie zajmuje się badaniem informacji na sy
 
 ## Entropia i losowość
 
+W sensie Shannonowskim informacja jest rozumiana jako entropia. 
 
+John von Neumann:
+
+> „You should call it entropy for two reasons: first, the function is already in use in thermodynamics under the same name; second, and more importantly, most people don't know what entropy really is, and if you use the word entropy in an argument you will win every time.”
+
+Zakładając kanał pozbawiony szumu, entropia jest miarą trzech równoważnych wartości:
+
+`(a) the average amount of information per symbol produced by the informer, or`
+
+`(b) the corresponding average amount of data deficit (Shannon's uncertainty) that the informee has before the inspection of the output of the informer, or`
+
+`(c) the corresponding informational potentiality of the same source, that is, its informational entropy.`
+
+Entropia może oznaczać w tym samym momencie \(a\) i \(b\). 
+
+Jeżeli chodzi o \(c\), to MTC traktuje informację jako wartość fizyczną, taką jak masa, czy energia. Informatyczny i termodynamiczny koncept entropii są ze sobą powiązane przez koncept prawdopodobieństwa i losowości \(_probability and randomness_\). 
+
+Losowość jest lepsza niż nieporządek \(_disorder_\), ponieważ jest ona konceptem syntaktycznym, kiedy nieporządek pozostaje terminem semantycznym, to jest, poddaje się interpretacjom. 
+
+``„Entropy is a measure of the amount of `mixedupness' in processes and systems bearing energy or information.”``
+
+"Mixedupness" -&gt; poziom pomieszania
+
+Entropia może być również postrzegana jako oznaczenie odwracalności. Jezeli nie zachodzi zmiana entropii, wtedy proces jest odwracalny.
+
+Wszystko się spina:
+
+`„A highly structured, perfectly organized message contains a lower degree of entropy or randomness, less information in the Shannon sense, and hence it causes a smaller data deficit, which can be close to zero (recall the raven).”`
+
+Odwrotnie, im większa możliwa losowość symboli w alfabecie, tym więcej bitów informacji może zostać wyprodukowanych przez urządzenie.
+
+`Entropy assumes its maximum value in the extreme case of uniform distribution, which is to say that a glass of water with a cube of ice contains less entropy than the glass of water once the cube has melted, and a biased coin has less entropy than a fair coin.` **`In thermodynamics, the greater the entropy, the less available the energy is.`** `This means that high entropy corresponds to high energy deficit, but so does entropy in MTC: higher values of entropy correspond to higher quantities of data deficit.`
 
