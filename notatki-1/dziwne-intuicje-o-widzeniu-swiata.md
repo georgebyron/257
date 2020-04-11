@@ -42,3 +42,15 @@ Kontekst wydobywa znaczenie. Na kontekście opiera się projektowanie spekulatyw
 
 Koniec świata jako metafora przestrzenna i czasowa jednocześnie. W obu przypadkach dotyczy tego samego: braku możliwości działania.
 
+
+
+11/04/2020/12:10
+
+Pomysł z poranka:
+
+![](../.gitbook/assets/large_550efed0ba71148ee9c7fc94e0a3301f.jpg)
+
+zestawić ten diagram z semantyką kolorów i wymyśleć \(albo sprawdzić, czy już nie było\) badanie, które mogłoby to potwierdzić.
+
++ zmiana znaczenia kolorów w oparciu o zestawienia kolorystyczne
+
