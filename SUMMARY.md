@@ -24,6 +24,7 @@
 * [Informacja: wstęp](informacja/informacja-wstep.md)
 * [Słownik informacji](informacja/slownik-informacji.md)
 * [Matematyczna teoria informacji](informacja/matematyczna-teoria-informacji.md)
+* [Informacja semantyczna](informacja/informacja-semantyczna.md)
 * [Problem ugruntowania symboli](informacja/problem-ugruntowania-symboli.md)
 
 ## Sieć Semantyczna
