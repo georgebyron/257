@@ -54,3 +54,11 @@ zestawić ten diagram z semantyką kolorów i wymyśleć \(albo sprawdzić, czy 
 
 + zmiana znaczenia kolorów w oparciu o zestawienia kolorystyczne
 
+16/04/2020/13:45
+
+Kluczem to post-pracy jest automatyzacja. 
+
+AI może zautomatyzować kognitywną pracę. Semiautomatyzacja, jak wspomaganie.
+
+I teraz: ontologia jest opisem post-pracy, sensu działania {po coś}.
+
