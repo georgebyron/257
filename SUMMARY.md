@@ -37,7 +37,11 @@
 * [SPARQL](siec-semantyczna/sparql.md)
 * [OWL](siec-semantyczna/owl.md)
 
-## Notatki <a id="notatki-1"></a>
+## Ontologie
+
+* [Shaviro o Whiteheadzie](ontologie/shaviro-o-whiteheadzie.md)
+
+## Notatki osobiste <a id="notatki-1"></a>
 
 * [Dziwne intuicje o widzeniu świata](notatki-1/dziwne-intuicje-o-widzeniu-swiata.md)
 * [Plany](notatki-1/plany.md)
@@ -50,9 +54,9 @@
 * [Prometheanism and its critics](crooked-translations/prometheanism-and-its-critics.md)
 * [Nieprzewidywanie przyszłości](nieprzewidywanie-przyszlosci.md)
 
-## Ontologie
+## Notatki z tekstów
 
-* [Shaviro o Whiteheadzie](ontologie/shaviro-o-whiteheadzie.md)
+* [Pandemic](notatki-z-tekstow/pandemic.md)
 
 ## Szkice \(2016 - 2018\) <a id="notatki"></a>
 
