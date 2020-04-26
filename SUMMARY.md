@@ -57,6 +57,7 @@
 ## Notatki z tekstów
 
 * [Pandemic](notatki-z-tekstow/pandemic.md)
+* [What protective measures can you think of so we don’t go back to the pre-crisis production model?](notatki-z-tekstow/what-protective-measures-can-you-think-of-so-we-dont-go-back-to-the-pre-crisis-production-model.md)
 
 ## Szkice \(2016 - 2018\) <a id="notatki"></a>
 
