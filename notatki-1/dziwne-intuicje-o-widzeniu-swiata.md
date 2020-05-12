@@ -68,7 +68,11 @@ Toward 257: create a pixel ontology, built upon some weird schematics, transfera
 
 09:15
 
-Pixel-morfology.
+Pixel-morphology.
 
-Model-morfology.
+Model-morphology.
+
+Morphogenesis.
+
+
 
