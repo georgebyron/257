@@ -66,3 +66,9 @@ I teraz: ontologia jest opisem post-pracy, sensu działania {po coś}.
 
 Toward 257: create a pixel ontology, built upon some weird schematics, transferable pattern that can be applied not only in the digital/web context. 
 
+09:15
+
+Pixel-morfology.
+
+Model-morfology.
+
